@@ -1,2 +1,3 @@
-This is  a new readme file
-##### I added a new branc.
+Docker Flast Applicatio,
+This is written in python,
+This shall be deployed on GKE
